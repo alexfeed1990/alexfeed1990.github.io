@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Andrew! I do dumb shit on a daily basis as a developer? I don't quite know if I qualify as one.. (yet)..
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can contact me on my discord (Slashed.#0698) and thats about it tbh.
+I make dumb stuff and wire it up/fix it even worse.
