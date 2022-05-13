@@ -25,7 +25,7 @@ Let me give you a close up:
 
 ![image](https://user-images.githubusercontent.com/76942911/168267180-0472149b-3bd6-4397-b3d3-62856fbe0209.png)
 
-Yes I did model that in roblox studio, I'm too dumb to use blender.
+Yes I did model that in roblox studio, I'm too dumb to use blender/CAD.
 But you get it.
 
 
