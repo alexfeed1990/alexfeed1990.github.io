@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $dark-gray;
+ background: var(--body-bg);
+   color: var(--body-color);
+
 }
 
 .container {
